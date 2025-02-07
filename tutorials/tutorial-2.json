@@ -1,0 +1,15 @@
+{
+    "id": 2,
+    "title": "Digital Footprints: Practice Quiz",
+    "nextTutorialTitle": "Data Cleaning",
+    "steps": [
+        {
+            "title": "Test Your Knowledge",
+            "content": "<h2 class=\"text-2xl font-bold mb-4\">Digital Footprints Quiz</h2><p class=\"mb-4\">Let's test what you've learned about digital footprints, cookies, and online privacy.</p><div id=\"footprint-quiz\" class=\"mb-6\"></div>",
+            "simulation": {
+                "id": "footprint-quiz",
+                "script": "digital-footprint-quiz.js"
+            }
+        }
+    ]
+}
