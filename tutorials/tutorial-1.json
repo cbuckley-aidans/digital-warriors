@@ -1,0 +1,87 @@
+{
+    "id": 1,
+    "title": "Understanding Digital Footprints",
+    "nextTutorialTitle": "Online Safety",
+    "steps": [
+        {
+            "title": "What is a Digital Footprint?",
+            "content": "<h2 class=\"text-2xl font-bold mb-4\">Understanding Digital Footprints</h2><p class=\"mb-4\">Your digital footprint is all the information about you that exists on the internet as a result of your online activity.</p><div class=\"bg-gray-800 rounded-lg p-6 mb-6\"><h3 class=\"text-xl font-semibold mb-3\">Your Digital Footprint Includes:</h3><ul class=\"list-disc pl-6 space-y-2\"><li>Posts on social media</li><li>Comments on websites and forums</li><li>Photos and videos you share</li><li>Messages and emails</li><li>Websites you visit</li><li>Apps you use</li><li>Online purchases</li><li>Location data from your devices</li></ul></div><div id=\"footprint-simulation\" class=\"mb-6\"></div>",
+            "quiz": [
+                {
+                    "question": "Which of these is NOT part of your digital footprint?",
+                    "options": [
+                        "Thoughts you keep to yourself",
+                        "Comments you post online",
+                        "Photos you share on social media",
+                        "Websites you visit"
+                    ],
+                    "correctAnswer": 0
+                }
+            ]
+        },
+        {
+            "title": "How Do You Leave a Digital Footprint?",
+            "content": "<h2 class=\"text-2xl font-bold mb-4\">Your Online Activities Matter</h2><div class=\"bg-gray-800 rounded-lg p-6 mb-6\"><h3 class=\"text-xl font-semibold mb-3\">Common Ways You Create Digital Footprints:</h3><div class=\"grid grid-cols-1 md:grid-cols-2 gap-4\"><div class=\"p-4 bg-gray-700 rounded-lg\"><h4 class=\"font-bold mb-2\">Active Footprints</h4><ul class=\"list-disc pl-6 space-y-2\"><li>Social media posts</li><li>Online comments</li><li>Email communications</li><li>Blog posts</li></ul></div><div class=\"p-4 bg-gray-700 rounded-lg\"><h4 class=\"font-bold mb-2\">Passive Footprints</h4><ul class=\"list-disc pl-6 space-y-2\"><li>Browsing history</li><li>Search history</li><li>Cookies stored</li><li>App usage data</li></ul></div></div></div><div class=\"mb-6\"><h3 class=\"text-xl font-semibold mb-3\">Recommendation Algorithms</h3><p class=\"mb-4\">Services like Netflix, Spotify, and YouTube track your activity to suggest content:</p><div class=\"grid grid-cols-1 md:grid-cols-3 gap-4 mb-4\"><div class=\"p-4 bg-blue-900 rounded-lg\"><p class=\"font-bold mb-2\">Netflix</p><p>Suggests shows based on your watching history</p></div><div class=\"p-4 bg-green-900 rounded-lg\"><p class=\"font-bold mb-2\">Spotify</p><p>Creates playlists from your music preferences</p></div><div class=\"p-4 bg-red-900 rounded-lg\"><p class=\"font-bold mb-2\">YouTube</p><p>Recommends videos similar to ones you've watched</p></div></div></div>",
+            "quiz": [
+                {
+                    "question": "Which of these creates a passive digital footprint?",
+                    "options": [
+                        "Writing a blog post",
+                        "Accepting website cookies",
+                        "Posting on social media",
+                        "Sending an email"
+                    ],
+                    "correctAnswer": 1
+                }
+            ]
+        },
+        {
+            "title": "Understanding Cookies",
+            "content": "<h2 class=\"text-2xl font-bold mb-4\">Website Cookies: Your Online Memory Trail</h2><div class=\"bg-gray-800 rounded-lg p-6 mb-6\"><h3 class=\"text-xl font-semibold mb-3\">What are Cookies?</h3><p class=\"mb-4\">Imagine if every time you visited your favorite game website, you had to start from level 1, or if you had to log in to your email every time you clicked a new message. That would be frustrating! This is where cookies come in - they're like a website's memory that helps remember things about you.</p><div class=\"grid grid-cols-1 md:grid-cols-2 gap-4 mb-6\"><div class=\"p-4 bg-gray-700 rounded-lg\"><h4 class=\"font-bold mb-2 text-blue-400\">How Cookies Help You:</h4><ul class=\"list-disc pl-6 space-y-2\"><li>Remember your game progress</li><li>Keep you logged into websites</li><li>Save items in your shopping cart</li><li>Remember your favorite settings</li></ul></div><div class=\"p-4 bg-gray-700 rounded-lg\"><h4 class=\"font-bold mb-2 text-yellow-400\">How Long Do They Last?</h4><ul class=\"list-disc pl-6 space-y-2\"><li>Some disappear when you close your browser (like a shopping cart)</li><li>Others stay longer to remember your preferences</li><li>You can clear cookies anytime through your browser settings</li></ul></div></div><div class=\"bg-gray-700 rounded-lg p-4 mb-6\"><h4 class=\"font-bold mb-2 text-green-400\">How Websites Use Cookies to Show You Ads</h4><p class=\"mb-4\">Have you ever looked at shoes on one website, then seen ads for those same shoes on other websites? Here's how that works:</p><ol class=\"list-decimal pl-6 space-y-2\"><li>You visit a shoe website and look at some cool sneakers</li><li>The website saves a cookie saying \"this person likes these sneakers\"</li><li>Other websites can read this cookie</li><li>They show you ads for the sneakers you looked at</li></ol></div><div class=\"bg-indigo-900 rounded-lg p-4\"><h4 class=\"font-bold mb-2 text-indigo-400\">Your Cookie Choices</h4><p>When you visit a website, you might see a \"Cookie Settings\" popup. You can choose:</p><div class=\"grid grid-cols-1 md:grid-cols-2 gap-4 mt-3\"><div class=\"bg-indigo-800 p-3 rounded-lg\"><p class=\"font-bold text-white\">Required Cookies</p><p class=\"text-sm\">Usually the bare minimum the website needs to work properly</p></div><div class=\"bg-indigo-800 p-3 rounded-lg\"><p class=\"font-bold text-white\">Optional Cookies</p><p class=\"text-sm\">Usually this is for advertising purposes</p></div></div></div></div><div id=\"cookie-simulation\" class=\"mb-6\"></div>",
+            "quiz": [
+                {
+                    "question": "Which type of cookie is deleted when you close your browser?",
+                    "options": [
+                        "Persistent cookies",
+                        "Session cookies", 
+                        "Third-party cookies",
+                        "First-party cookies"
+                    ],
+                    "correctAnswer": 1
+                }
+            ]
+        },
+        {
+            "title": "Why Your Digital Footprint Matters",
+            "content": "<h2 class=\"text-2xl font-bold mb-4\">The Importance of Your Digital Footprint</h2><div class=\"bg-gray-800 rounded-lg p-6 mb-6\"><p class=\"mb-4\">Your digital footprint can affect:</p><div class=\"grid grid-cols-1 md:grid-cols-2 gap-4\"><div class=\"p-4 bg-gray-700 rounded-lg\"><h4 class=\"font-bold mb-2 text-blue-400\">Future Opportunities</h4><ul class=\"list-disc pl-6 space-y-2\"><li>Job applications</li><li>School admissions</li><li>Volunteer positions</li><li>Leadership roles</li></ul></div><div class=\"p-4 bg-gray-700 rounded-lg\"><h4 class=\"font-bold mb-2 text-red-400\">Potential Risks</h4><ul class=\"list-disc pl-6 space-y-2\"><li>Online reputation</li><li>Personal privacy</li><li>Digital security</li><li>Identity protection</li></ul></div></div></div><div class=\"excel-formula mb-4\"><p class=\"mb-2 font-bold\">Real-World Example:</p><div class=\"bg-gray-700 p-4 rounded-lg\"><p>In the Behind The News video, Ruby's old posts about disliking ice cream affected her job interview at an ice cream shop. This shows how past online activity can impact future opportunities.</p></div></div>",
+            "quiz": [
+                {
+                    "question": "How can a digital footprint affect your future?",
+                    "options": [
+                        "It can only affect your social media accounts",
+                        "It has no effect on job applications",
+                        "It can influence job opportunities and school admissions",
+                        "It only matters for famous people"
+                    ],
+                    "correctAnswer": 2
+                }
+            ]
+        },
+        {
+            "title": "Creating a Positive Digital Footprint",
+            "content": "<h2 class=\"text-2xl font-bold mb-4\">Building a Positive Online Presence</h2><div class=\"bg-gray-800 rounded-lg p-6 mb-6\"><h3 class=\"text-xl font-semibold mb-3\">Best Practices:</h3><div class=\"grid grid-cols-1 gap-4\"><div class=\"p-4 bg-gray-700 rounded-lg\"><h4 class=\"font-bold mb-2 text-green-400\">Think Before You Post</h4><ul class=\"list-disc pl-6 space-y-2\"><li>Is it true?</li><li>Is it kind?</li><li>Would you say it in person?</li><li>Would you be happy for anyone to see it?</li></ul></div><div class=\"p-4 bg-gray-700 rounded-lg mt-4\"><h4 class=\"font-bold mb-2 text-blue-400\">Protect Your Privacy</h4><ul class=\"list-disc pl-6 space-y-2\"><li>Use strong privacy settings</li><li>Don't share personal information</li><li>Only connect with people you know</li><li>Be careful with location sharing</li></ul></div></div></div>",
+            "quiz": [
+                {
+                    "question": "What should you consider before posting online?",
+                    "options": [
+                        "Only if your friends will like it",
+                        "If it will get many likes",
+                        "If it's true and kind",
+                        "How funny it is"
+                    ],
+                    "correctAnswer": 2
+                }
+            ]
+        }
+    ]
+}
