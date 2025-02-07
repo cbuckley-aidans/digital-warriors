@@ -72,6 +72,61 @@ function renderSimulation(containerId) {
                 explanation: "Even if an image is fake, some people might think it's real, and the image can still do massive damage to someone's reputation even if it's proven to be fake later on."
             },
             {
+                question: "What makes a strong password?",
+                options: [
+                "Your name and birthday",
+                "A mix of letters, numbers, symbols, and at least 12 characters",
+                "The same password you use everywhere",
+                "A common word with numbers at the end"
+                ],
+                correctAnswer: 1,
+                explanation: "Strong passwords use a variety of characters and are long enough to be hard to guess, while still being memorable to you."
+                },
+                {
+                question: "How often should you change important passwords?",
+                options: [
+                "Never, if they're strong",
+                "Every few years",
+                "At least every 3-6 months",
+                "Only when accounts are hacked"
+                ],
+                correctAnswer: 2,
+                explanation: "Regular password changes help protect your accounts, even if you haven't noticed any suspicious activity."
+                },
+                {
+                question: "Which information is unsafe to share online?",
+                options: [
+                "Your hobbies",
+                "Your home address and phone number",
+                "Your favorite movies",
+                "Your opinions about books"
+                ],
+                correctAnswer: 1,
+                explanation: "Personal information like your address and phone number should be kept private as they could be used to harm you offline."
+                },
+                {
+                question: "What should you do if someone asks to share your password?",
+                options: [
+                "Share it if they're a close friend",
+                "Never share it, even with trusted friends",
+                "Share it but change it later",
+                "Share it if they really need it"
+                ],
+                correctAnswer: 1,
+                explanation: "Passwords should never be shared with anyone - even trusted friends. Each person should have their own account and password."
+                },
+                {
+                question: "How can you make your social media more private?",
+                options: [
+                "Block everyone",
+                "Use private/friends-only settings and review them regularly",
+                "Delete all your posts",
+                "Only post at night"
+                ],
+                correctAnswer: 1,
+                explanation: "Using private settings and regularly checking who can see your content helps control your digital footprint."
+                },
+            {
                 question: "How can websites use cookies for advertising?",
                 options: [
                     "By asking you what ads you want",
